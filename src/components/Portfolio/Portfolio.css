@@ -1,0 +1,20 @@
+.layer{
+    background-color: #1abc9ce6;
+    cursor: pointer;
+    opacity: 0;
+    transition: 0.6s all ease;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.layer:hover{
+opacity: 1;
+}
+
+.model{
+    z-index: 999;
+}

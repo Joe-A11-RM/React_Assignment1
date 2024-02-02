@@ -1,0 +1,28 @@
+.footer{
+    background-color: #2C3E50;
+    text-align: center;
+    position: relative;
+    z-index: 99;
+}
+
+.footer h3{
+    font-weight: 500;
+    font-size: 28px;
+    text-transform: uppercase;
+}
+.footer .icon{
+    border: 1px white solid;
+    border-radius: 50%;
+    padding: 10px;
+}
+
+.footer .copyright{
+    background-color: #1A252F;
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    min-height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

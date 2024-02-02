@@ -1,0 +1,22 @@
+.about{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.about-bg{
+    background-color: #1ABC9C;
+}
+
+.about-heading {
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+
+.line{
+    height: 4px;
+    width: 80px;
+}

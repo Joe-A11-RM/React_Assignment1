@@ -1,0 +1,25 @@
+.start{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.start-bg{
+    background-color: #1ABC9C;
+}
+
+img{
+    width: 250px;
+}
+
+.start-heading {
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.line{
+    height: 4px;
+    width: 80px;
+}
